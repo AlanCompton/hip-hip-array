@@ -70,7 +70,8 @@ const students = [
   console.log("\n");
   console.log("Challenge 6");
   // Challenge 6
-  // Add a value (your choice!) to the start of the following array and two values (of your choice) using push and unshift. Then console.log out each value in the array individually.
+  // Add a value (your choice) to the start of the following array using unshift and two values to the end of the array (of your choice) using push.
+  // Then console.log out each value in the array individually.
   const fibonacciNumbers = [1, 1, 2, 3, 5, 8, 13];
   // Challenge 6 Code
   
