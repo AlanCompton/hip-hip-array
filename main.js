@@ -108,28 +108,28 @@ const students = [
 
   console.log("\n");
   console.log("Challenge 10");
-  // Challenge 11
+  // Challenge 10
   // Make a COPY of the `students` array *using .slice*, starting at index 3 and ending at index 10 (INCLUSIVE), then log out each value of the copy individually. THEN log out each value of the original array. Notice that the original array didn't get any values taken out of it, because `slice` does NOT modify the original array.
-  // Challenge 11 Code
+  // Challenge 10 Code
   
 
 
 
   console.log("\n");
   console.log("Challenge 11");
-  // Challenge 12
+  // Challenge 11
   // Pull the items at indices 4-6 (inclusive) from the following array using .splice (NOT .slice!), then console.log out each item from the ORIGINAL array. Note that .splice DOES change the original array.
   const dinosaurs = ['Velociraptor', 'T-Rex', 'Stegosaurus', 'Triceratops', 'Dimetrodon', 'Allosaur', 'Spinosaurus', 'Gigantosaur']
-  // Challenge 12 Code
+  // Challenge 11 Code
 
   
   
   
   console.log("\n");
   console.log("Challenge 12");
-  // Challenge 13
+  // Challenge 12
   // Use .join to change the dinosaur strings from the above array into one string with a '*' string as the "separator". Then console.log out that string.
-  // Challenge 13 Code
+  // Challenge 12 Code
 
 
 
@@ -137,19 +137,19 @@ const students = [
   console.log("\n");
 
   console.log("Challenge 13");
-  // Challenge 14
+  // Challenge 13
   // Use .reverse to reverse the dinosaur array and then log out the original array. .reverse DOES change the original array.
-  // Challenge 14 Code
+  // Challenge 13 Code
 
 
 
   
   console.log("\n");
   console.log("Challenge 14");
-  // Challenge 15
+  // Challenge 14
   // Create two new arrays.
   // Use .concat to combine those two arrays into a NEW array you make (.concat RETURNS an array). Then console.log out each value of that new array individually. Now console.log both the primaries and secondaries arrays, noting that .concat does NOT mutate the original arrays.
-  // Challenge 15 Code
+  // Challenge 14 Code
 
 
   
